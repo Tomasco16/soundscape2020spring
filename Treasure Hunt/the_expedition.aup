@@ -1,0 +1,139 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="the_expedition_data" version="1.3.0" audacityversion="2.3.3" sel0="26.8304438903" sel1="26.8304438903" vpos="160" h="17.7382144638" zoom="35.8547925608" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="tbrenneche"/>
+		<tag name="COMMENTS" value="background for running from bear"/>
+		<tag name="TITLE" value="Forrest_Birds_Skodsborg01_TBB.wav"/>
+		<tag name="YEAR" value="June 27th, 2019"/>
+		<tag name="GENRE" value="Nature"/>
+	</tags>
+	<wavetrack name="car_noises" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="28.86641667" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="626437">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a5d.au" len="94415" min="-1.06322" max="1.069127" rms="0.071544"/>
+				</waveblock>
+				<waveblock start="94415">
+					<simpleblockfile filename="e0808c24.au" len="132778" min="-0.359012" max="0.39903" rms="0.017733"/>
+				</waveblock>
+				<waveblock start="227193">
+					<simpleblockfile filename="e0808c97.au" len="169228" min="-0.264507" max="0.287623" rms="0.05696"/>
+				</waveblock>
+				<waveblock start="396421">
+					<simpleblockfile filename="e0808efa.au" len="230016" min="-0.214483" max="0.214614" rms="0.049969"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="0.334700540316" val="0.267605662346"/>
+				<controlpoint t="0.502042186201" val="0.978873252869"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="car_noises" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="28.86641667" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="626437">
+				<waveblock start="0">
+					<simpleblockfile filename="e080804a.au" len="94415" min="-0.880139" max="0.913976" rms="0.044605"/>
+				</waveblock>
+				<waveblock start="94415">
+					<simpleblockfile filename="e0808b83.au" len="132778" min="-0.343102" max="0.378886" rms="0.01389"/>
+				</waveblock>
+				<waveblock start="227193">
+					<simpleblockfile filename="e0808ccf.au" len="169228" min="-0.153993" max="0.167385" rms="0.038083"/>
+				</waveblock>
+				<waveblock start="396421">
+					<simpleblockfile filename="e0808e50.au" len="230016" min="-0.133353" max="0.154754" rms="0.037914"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="0.334700540316" val="0.267605662346"/>
+				<controlpoint t="0.502042186201" val="0.978873252869"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="tired_breathing" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="30.06570833" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="240768">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e13.au" len="240768" min="-0.052297" max="0.065246" rms="0.004828"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="35.52530017" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="334771">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e13.au" len="240768" min="-0.052297" max="0.065246" rms="0.004828"/>
+				</waveblock>
+				<waveblock start="240768">
+					<simpleblockfile filename="e0808ee9.au" len="94003" min="-0.052297" max="0.065246" rms="0.004291"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="12">
+				<controlpoint t="2.377116392692" val="1.000000000000"/>
+				<controlpoint t="3.469884472492" val="0.591549277306"/>
+				<controlpoint t="4.749984223116" val="0.450704216957"/>
+				<controlpoint t="5.311979235585" val="0.352112650871"/>
+				<controlpoint t="5.499310906407" val="0.295774638653"/>
+				<controlpoint t="5.655420632093" val="0.295774638653"/>
+				<controlpoint t="6.092527864013" val="0.154929578304"/>
+				<controlpoint t="6.592078986208" val="0.084507048130"/>
+				<controlpoint t="7.122852053540" val="0.098591566086"/>
+				<controlpoint t="7.591181230597" val="0.070422530174"/>
+				<controlpoint t="18.510362670068" val="0.436619699001"/>
+				<controlpoint t="18.510362670068" val="0.732394337654"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="backgroud_forrest_noise" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="0.177828" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1443154">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d2a.au" len="262144" min="-0.041697" max="0.039812" rms="0.008738"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e080838c.au" len="262144" min="-0.036033" max="0.037064" rms="0.0082"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808a77.au" len="262144" min="-0.03836" max="0.041754" rms="0.008489"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e080847c.au" len="262144" min="-0.080931" max="0.071433" rms="0.011375"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808fc9.au" len="262144" min="-0.037856" max="0.039576" rms="0.008317"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808648.au" len="132434" min="-0.035133" max="0.037141" rms="0.008315"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="backgroud_forrest_noise" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="0.177828" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1443154">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808773.au" len="262144" min="-0.0401" max="0.041189" rms="0.008444"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808824.au" len="262144" min="-0.034964" max="0.038709" rms="0.00791"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808adf.au" len="262144" min="-0.039753" max="0.036311" rms="0.008176"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0808c41.au" len="262144" min="-0.082654" max="0.078637" rms="0.012398"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e08082b8.au" len="262144" min="-0.035468" max="0.040479" rms="0.008033"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e080873f.au" len="132434" min="-0.036922" max="0.031244" rms="0.008057"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
