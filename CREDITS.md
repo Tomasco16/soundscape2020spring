@@ -5,7 +5,7 @@
 - Rapid Footsteps Upon Gravel (by ExplosiveTamale) https://freesound.org/s/448357/
 - Grass.wav (by MTJohnson) https://freesound.org/s/426315/
 - bear-roar.wav (by mrbubble110) https://freesound.org/s/70333/
-- BEARBreath_02.wav (by tylerandbergsd)
+- BEARBreath_02.wav (by tylerandbergsd) https://freesound.org/s/416850/
 - Didgeridoo Monster Roar (by Noxdl) https://freesound.org/s/204912/
 - Getting Into Car And Starting It (by mhtaylor67) https://freesound.org/s/126042/
 - heavy breathing off mic loop.wav (by bevangoldswain) https://freesound.org/s/54776/
