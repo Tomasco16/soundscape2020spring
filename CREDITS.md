@@ -1,15 +1,15 @@
 - Forrest_Birds_Skodsborg01_TBB.wav (by tbrenneche) https://freesound.org/s/475561/ (Under CC license 0)
 - Water Cave (by Schoggimousse) https://freesound.org/s/443061/ (Under CC license 0)
 - cav 02 (by rucisko) https://freesound.org/s/343741/ (Under CC license 0)
-- Cave_Machine_big hum_atmos 1.wav (by alexkandrell) https://freesound.org/s/277748/
+- Cave_Machine_big hum_atmos 1.wav (by alexkandrell) https://freesound.org/s/277748/ (Under attribution license)
 - Rapid Footsteps Upon Gravel (by ExplosiveTamale) https://freesound.org/s/448357/ (Under CC license 0)
 - Grass.wav (by MTJohnson) https://freesound.org/s/426315/ (Under CC license 0)
-- bear-roar.wav (by mrbubble110) https://freesound.org/s/70333/
-- BEARBreath_02.wav (by tylerandbergsd) https://freesound.org/s/416850/
+- bear-roar.wav (by mrbubble110) https://freesound.org/s/70333/ (Under Sampling+ license)
+- BEARBreath_02.wav (by tylerandbergsd) https://freesound.org/s/416850/ (Under attribution license)
 - Didgeridoo Monster Roar (by Noxdl) https://freesound.org/s/204912/ (Under CC license 0)
 - Getting Into Car And Starting It (by mhtaylor67) https://freesound.org/s/126042/ (Under CC license 0)
-- heavy breathing off mic loop.wav (by bevangoldswain) https://freesound.org/s/54776/
+- heavy breathing off mic loop.wav (by bevangoldswain) https://freesound.org/s/54776/ (Under Sampling+ license)
 - A Walk with stop.wav (by straget) https://freesound.org/s/414921/ (Under CC license 0)
 - Going on a forest road gravel and grass.wav (by straget) https://freesound.org/s/411206/ (Under CC license 0)
-- The sound of the jump (by Ziggler_Games) https://freesound.org/s/464336/
-- Heavy Breathing.wav (by ceberation) https://freesound.org/s/235519/
+- The sound of the jump (by Ziggler_Games) https://freesound.org/s/464336/ (Under attribution noncommercial license)
+- Heavy Breathing.wav (by ceberation) https://freesound.org/s/235519/ (Under attribution license)
