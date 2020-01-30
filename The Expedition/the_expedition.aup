@@ -1,12 +1,12 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="the_expedition_data" version="1.3.0" audacityversion="2.3.3" sel0="117.9296479287" sel1="117.9296479287" vpos="704" h="0.0000000000" zoom="5.6643940835" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="the_expedition_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="2352" h="0.0000000000" zoom="5.6643940835" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="ARTIST" value="schoggimousse"/>
-		<tag name="COMMENTS" value="track 5 of 5 (Loud one that I may not use)"/>
-		<tag name="TITLE" value="water cave"/>
-		<tag name="YEAR" value="2018"/>
-		<tag name="GENRE" value="nature"/>
+		<tag name="ARTIST" value="Blake Tomasco"/>
+		<tag name="TITLE" value="The Expedition"/>
+		<tag name="COMMENTS" value="I really did!! We really out here"/>
+		<tag name="YEAR" value="2019"/>
+		<tag name="GENRE" value="Soundscape"/>
 	</tags>
 	<wavetrack name="cave_start" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
@@ -368,7 +368,7 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="water_cave3" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="water_cave3" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="50.52251974" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2648448">
 				<waveblock start="0">
@@ -452,7 +452,7 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="water_cave5" isSelected="1" height="150" minimized="1" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="0.223872" pan="0.0" colorindex="0">
+	<wavetrack name="water_cave5" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="0.223872" pan="0.0" colorindex="0">
 		<waveclip offset="50.52251974" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2648448">
 				<waveblock start="0">
@@ -515,7 +515,7 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="walking_in_cave" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="0.177828" pan="0.0" colorindex="0">
+	<wavetrack name="walking_in_cave" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="0.177828" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="5072754">
 				<waveblock start="0">
@@ -585,7 +585,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="cave_whitenoise" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.995262" pan="0.0" colorindex="0">
+	<wavetrack name="cave_whitenoise" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.995262" pan="0.0" colorindex="0">
 		<waveclip offset="23.16939583" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="6290820">
 				<waveblock start="0">
@@ -698,7 +698,7 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="cave_whitenoise" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.995262" pan="0.0" colorindex="0">
+	<wavetrack name="cave_whitenoise" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.995262" pan="0.0" colorindex="0">
 		<waveclip offset="23.16939583" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="6290820">
 				<waveblock start="0">
@@ -811,7 +811,7 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="sliding_down_vine_selfrecorded" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="sliding_down_vine_selfrecorded" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="51.40523651" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="72989">
 				<waveblock start="0">
@@ -829,7 +829,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="sliding_down_vine_selfrecorded" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="sliding_down_vine_selfrecorded" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="51.40523651" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="72989">
 				<waveblock start="0">
@@ -847,7 +847,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="jump" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="jump" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="95.58757764" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="141696">
 				<waveblock start="0">
@@ -857,7 +857,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="jump" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="jump" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="95.58757764" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="141696">
 				<waveblock start="0">
@@ -867,7 +867,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Action Breaths" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="0.398107" pan="0.0" colorindex="0">
+	<wavetrack name="Action Breaths" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="0.398107" pan="0.0" colorindex="0">
 		<waveclip offset="50.97086441" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="77855">
 				<waveblock start="0">
@@ -912,7 +912,7 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Action Breaths" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="0.398107" pan="0.0" colorindex="0">
+	<wavetrack name="Action Breaths" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="0.398107" pan="0.0" colorindex="0">
 		<waveclip offset="50.97086441" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="77855">
 				<waveblock start="0">
@@ -957,7 +957,7 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="bear_roar" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="0" solo="0" rate="8000" gain="0.794328" pan="0.0" colorindex="0">
+	<wavetrack name="bear_roar" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="8000" gain="0.794328" pan="0.0" colorindex="0">
 		<waveclip offset="108.95641237" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="34983">
 				<waveblock start="0">
@@ -967,7 +967,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="bear_snarl" isSelected="0" height="150" minimized="1" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="bear_snarl" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="104.76676413" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="170295">
 				<waveblock start="0">
@@ -1332,7 +1332,7 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="running_breathing" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="running_breathing" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="168.53592545" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1498593">
 				<waveblock start="0">
@@ -1403,7 +1403,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="running_breathing" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="running_breathing" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="168.53592545" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1498593">
 				<waveblock start="0">
